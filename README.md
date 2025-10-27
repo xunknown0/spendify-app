@@ -1,16 +1,29 @@
-# spendify
+# 💰 Spendify
+Track your expenses, visualize your spending, and take control of your money — all in one simple Flutter app.
 
-A new Flutter project.
+Spendify helps you stay on top of your budget with clear charts, smart categories, and a clean interface that makes expense tracking effortless.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
+💵 Add and categorize your expenses  
+📊 Visualize spending with bar charts  
+🌗 Light and dark theme support  
+⚡ Fast, smooth, and responsive Flutter UI  
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🚀 Getting Started
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+# Clone the repository
+git clone https://github.com/xunknown0/spendify.git
+
+# Navigate into the project folder
+cd spendify
+
+# Install dependencies
+flutter pub get
+
+# Run the app
+flutter run
